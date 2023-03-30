@@ -21,16 +21,15 @@
   <img align="center" alt="David-Wp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 
 
+</div>
+  
+  
+  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Yorrison&show_icons=true&theme=radical)
+  
 
-  </div>
-  
-  
-  
-  
-  
-  
- 
-  </div>
+
+</div>
   
 ##
 
